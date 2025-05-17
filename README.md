@@ -1,9 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+Name: jawahar babu s
 
-Regno: 212223240036
+Regno: 2122242240041
 
 # Ex03-Linux IPC - Pipes
 
